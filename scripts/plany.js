@@ -12,7 +12,7 @@ $(".plan-kolo").on("click", function (params) {
         rotate: false
     })
 
-    $("#fuul-screen-panel-image").css("width", "100%")
+   
           
 
     
