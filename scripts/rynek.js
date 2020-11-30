@@ -1,7 +1,6 @@
 
 let RynekSliderImages = [ 
     "./img/Rynek/Rynek/Bensheimer_miasto.jpg",
-    "./img/Rynek/Rynek/2. Bodenehr.jpg",
     "./img/Rynek/Rynek/Gorczyn_ratusz.jpg",
     "./img/Rynek/Rynek/4. Rynek, pocztówka.jpg",
 
@@ -10,7 +9,6 @@ let RynekSliderImages = [
 let RynekSliderTitlesPL = [
    
     "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Częstochowy, sztych według miedziorytu Jana BensheimeraW zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie",
-    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., sztych według miedziorytu Gabriela Bodenehra Starszego W zbiorach Muzeum Częstochowskiego",
     "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Starej Częstochowy, sztych według miedziorytu Jana Aleksandra Gorczyna W zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie",
     "Częstochowa, Stary Rynek, lata 20. XX wieku Pocztówka ze zbiorów Muzeum Częstochowskiego",
 ]
