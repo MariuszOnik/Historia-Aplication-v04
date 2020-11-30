@@ -66,11 +66,8 @@
 }
 
 #tlumaczenie-oplczyka-tytul{
-    font-size: 2vw;
-    position: absolute;
+    color:antiquewhite; font-size: 2vw; 
     font-weight: 600;
-    color: antiquewhite;
+    width: 100%;
     text-align: center;
-    left:15%;
-    top: 60%;
 }

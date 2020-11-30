@@ -131,19 +131,7 @@ h5.image-in-slider-title-2{
     font-size: var(--p-font-size);
     transform: translate(-50%, -50%) !important;
 }
-#tlumaczenie-dokumentu-kazimierza-tytul{
-    color:antiquewhite; font-size: 2vw; 
-    font-weight: 600;
-    width: 100%;
-    text-align: center;
-}
-.tlumaczenie{
-    
-    
-   position: absolute;
-    top: 150% !important;
-    z-index: 6;
-}
+
 .ramka{
     -webkit-transform: translate(-50%, -50%); 
     position: absolute;
